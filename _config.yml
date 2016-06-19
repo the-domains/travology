@@ -1,0 +1,14 @@
+layout_spectrum: 0.5566975579131395
+typography_spectrum: 0.20647633634507656
+color:
+  brandStrength: 0.7473052400164306
+  lightness: 0.8612798186950386
+  saturation: 0.8512220655102283
+  rhythmicContrast: 0.5811562808230519
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Travology
