@@ -6,9 +6,9 @@ color:
   saturation: 0.8512220655102283
   rhythmicContrast: 0.5811562808230519
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
 name: Travology
